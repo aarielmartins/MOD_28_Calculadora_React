@@ -1,7 +1,7 @@
 import { useState } from "react"
 
-import Cabecalho from "./componets/Cabecalho"
-import Formulario from "./componets/Formulario"
+import Cabecalho from "./components/Cabecalho"
+import Formulario from "./components/Formulario"
 
 function App() { 
   

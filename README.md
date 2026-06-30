@@ -12,7 +12,9 @@ Projeto desenvolvido como exercício prático do Módulo 28, para praticar conce
  
 - React
 - Vite
-- JavaScript, CSS e HTML
+- JavaScript
+- CSS
+- HTML
   
 ## 📦 Como rodar o projeto
  

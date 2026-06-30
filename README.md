@@ -7,7 +7,7 @@ Projeto desenvolvido como exercício prático do Módulo 28, para praticar conce
 - Operações matemáticas básicas (soma, subtração, multiplicação e divisão)
 - Interface simples e responsiva
 - Gerenciamento de estado com React Hooks
-- 
+  
 ## 🚀 Tecnologias utilizadas
  
 - React
